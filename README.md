@@ -7,10 +7,8 @@ Website contains:
 - About
 - Skills
 - Qualification
-- Services
 - Portfolio
 - Project in mind
-- Testimonial
 - Contact
 - Footer 
 
